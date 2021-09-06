@@ -8,6 +8,7 @@ const calculate=0=>{
   let obtainedMarks=parseFloat(web)+parseFloat(phy)+parseFloat(chem)+parseFloat(maths)
   
   let percentage=(obtainedMarks/400)*100
+  let grade=' '
   if(percentage<=100 && percentage>=80)
   {
     grade='A'
