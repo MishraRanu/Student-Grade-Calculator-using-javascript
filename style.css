@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(120deg, yellow, lime);
+  background: linear-gradient(120deg, pink, blue);
 }
 .container {
   background-color: purple;
